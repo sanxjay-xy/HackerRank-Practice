@@ -1,4 +1,4 @@
-# 🚀 About This Repository:
+# 🚀 About This Repository
 
 Welcome to my **HackerRank Practice** repository. This is my personal vault of solutions to a wide range of coding problems from [HackerRank](https://www.hackerrank.com/), neatly organized by difficulty.
 
