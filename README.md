@@ -1,10 +1,10 @@
-# 🚀 HackerRank Practice
+# 🚀 About This Repository:
 
 Welcome to my **HackerRank Practice** repository. This is my personal vault of solutions to a wide range of coding problems from [HackerRank](https://www.hackerrank.com/), neatly organized by difficulty.
 
 ## 🧠 Why this repo?
 
-To **sharpen problem-solving skills**, strengthen core **data structures and algorithms**, and build a consistent habit of coding. Every challenge I solve here helps prepare me for real-world software engineering interviews and competitions.
+To **sharpen problem-solving skills**, strengthen core **data structures and algorithms**, and build a consistent habit of coding.
 
 ---
 
@@ -12,10 +12,10 @@ To **sharpen problem-solving skills**, strengthen core **data structures and alg
 
 | Branch | Description | Link |
 |--------|-------------|------|
-| `about` | Project overview and meta files (like `README.md`) | [📄 View](../../tree/About) |
-| `easy` | Solutions to beginner-level problems (arrays, strings, loops) | [🟢 View](../../tree/Easy) |
-| `medium` | Intermediate problems involving logic, recursion, and basic data structures | [🟡 View](../../tree/Medium) |
-| `hard` | Advanced-level problems – optimization, DP, and graph-related questions | [🔴 View](../../tree/Hard) |
+| `About` | Project overview and meta files (like `README.md`) | [📄 View Branch](../../tree/About) |
+| `Easy` | Solutions to beginner-level problems (arrays, strings, loops) | [🟢 View Branch](../../tree/Easy) |
+| `Medium` | Intermediate problems involving logic, recursion, and basic data structures | [🟡 View Branch](../../tree/Medium) |
+| `Hard` | Advanced-level problems – optimization, DP, and graph-related questions | [🔴 View Branch](../../tree/Hard) |
 
 > _Use the branch switcher above on GitHub to explore specific problem sets._
 
@@ -53,15 +53,14 @@ To **sharpen problem-solving skills**, strengthen core **data structures and alg
 ## 🚧 Work in Progress
 
 This repo will keep growing. I'm actively adding:
-- [ ] New problems daily  
-- [ ] Detailed explanations for tough ones  
+- [ ] New problems
 - [ ] Code cleanup and optimization passes  
 
 ---
 
 ## 📬 Let's Connect
 
-If you're also grinding DSA or prepping for interviews, feel free to check out my solutions or suggest improvements. Open to collab, PRs, and code reviews.
+If you're also grinding DSA or prepping for interviews, feel free to check out my solutions or suggest improvements.
 
 ---
 
