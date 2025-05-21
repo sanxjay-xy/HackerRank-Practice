@@ -10,12 +10,12 @@ To **sharpen problem-solving skills**, strengthen core **data structures and alg
 
 ## 📑 Table of Contents
 
-| Branch | Description | Link |
-|--------|-------------|------|
-| `About` | Project overview and meta files (like `README.md`) | [📄 View Branch](../../tree/About) |
-| `Easy` | Solutions to beginner-level problems (arrays, strings, loops) | [🟢 View Branch](../../tree/Easy) |
-| `Medium` | Intermediate problems involving logic, recursion, and basic data structures | [🟡 View Branch](../../tree/Medium) |
-| `Hard` | Advanced-level problems – optimization, DP, and graph-related questions | [🔴 View Branch](../../tree/Hard) |
+| Branch   | Description                                                  | Link                          |
+|----------|--------------------------------------------------------------|-------------------------------|
+| `About`  | Project overview and meta files (like `README.md`)           | [📄 View Branch](../../tree/About)   |
+| `Easy`   | Solutions to beginner-level problems (arrays, strings, loops)| [🟢 View Branch](../../tree/Easy)    |
+| `Medium` | Intermediate problems involving logic, recursion, and basic data structures | [🟡 View Branch](../../tree/Medium)  |
+| `Hard`   | Advanced-level problems – optimization, DP, and graph-related questions | [🔴 View Branch](../../tree/Hard)    |
 
 > _Use the branch switcher above on GitHub to explore specific problem sets._
 
@@ -50,11 +50,33 @@ To **sharpen problem-solving skills**, strengthen core **data structures and alg
 
 ---
 
+## 📝 Programs Completed (`Easy` branch)
+
+Below is a list of all Java programs I have completed and pushed to the [`Easy` branch](../../tree/Easy):
+
+- [JavaAnagrams.java](../../blob/Easy/JavaAnagrams.java) — Anagram check  
+- [JavaCurrencyFormatter.java](../../blob/Easy/JavaCurrencyFormatter.java) — Currency Conversion  
+- [JavaDatatypes.java](../../blob/Easy/JavaDatatypes.java) — Primitive datatypes to store value  
+- [JavaDateAndTime.java](../../blob/Easy/JavaDateAndTime.java) — Finding day of the week  
+- [JavaEnd0fFile.java](../../blob/Easy/JavaEnd0fFile.java) — Read lines till EOF  
+- [JavaIntToString.java](../../blob/Easy/JavaIntToString.java) — Converting int to String  
+- [JavaLoops1.java](../../blob/Easy/JavaLoops1.java) — First 10 multiples of N  
+- [JavaLoops2.java](../../blob/Easy/JavaLoops2.java) — Series creation  
+- [JavaOutputFormatting.java](../../blob/Easy/JavaOutputFormatting.java) — Java output formatting  
+- [JavaStaticInitializerBlock.java](../../blob/Easy/JavaStaticInitializerBlock.java) — Area of parallelogram  
+- [JavaStringReverse.java](../../blob/Easy/JavaStringReverse.java) — Palindrome check  
+- [JavaStringsIntroduction.java](../../blob/Easy/JavaStringsIntroduction.java) — Performing basic string operations  
+- [JavaSubstring.java](../../blob/Easy/JavaSubstring.java) — Substring extraction  
+- [JavaSubstringComparisons.java](../../blob/Easy/JavaSubstringComparisons.java) — Comparing all substrings of size k of a string  
+- [Java_Sdtin_Sdtout.java](../../blob/Easy/Java_Sdtin_Sdtout.java) — Standard Input/Output program  
+- [Java_Stdin_Stdout_2.java](../../blob/Easy/Java_Stdin_Stdout_2.java) — Standard Input/Output 2  
+- [WelcomeToJava.java](../../blob/Easy/WelcomeToJava.java) — Basic welcome program  
+
+---
+
 ## 🚧 Work in Progress
 
-This repo will keep growing. I'm actively adding:
-- [ ] New problems
-- [ ] Code cleanup and optimization passes  
+This repo will keep growing. I'm actively adding new problems... so stick around!
 
 ---
 
