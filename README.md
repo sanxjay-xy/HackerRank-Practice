@@ -54,7 +54,8 @@ To **sharpen problem-solving skills**, strengthen core **data structures and alg
 
 Below is a list of all Java programs I have completed and pushed to the [`Easy` branch](../../tree/Easy):
 
-- [Java1DArray.java](../../blob/Easy/Java1DArray.java) — Adding elements to 1D array  
+- [Java1DArray.java](../../blob/Easy/Java1DArray.java) — Adding elements to 1D array
+- [Java2DArray.java](../../blob/Easy/Java2DArray.java) — Maximum sum of hourglass  
 - [JavaAnagrams.java](../../blob/Easy/JavaAnagrams.java) — Anagram check
 - [JavaBigInteger.java](../../blob/Easy/JavaBigInteger.java) — BigInteger operations  
 - [JavaCurrencyFormatter.java](../../blob/Easy/JavaCurrencyFormatter.java) — Currency Conversion  
@@ -63,7 +64,8 @@ Below is a list of all Java programs I have completed and pushed to the [`Easy` 
 - [JavaEnd0fFile.java](../../blob/Easy/JavaEnd0fFile.java) — Read lines till EOF  
 - [JavaIntToString.java](../../blob/Easy/JavaIntToString.java) — Converting int to String  
 - [JavaLoops1.java](../../blob/Easy/JavaLoops1.java) — First 10 multiples of N  
-- [JavaLoops2.java](../../blob/Easy/JavaLoops2.java) — Series creation  
+- [JavaLoops2.java](../../blob/Easy/JavaLoops2.java) — Series creation
+- [JavaNegativeSubarray.java](../../blob/Easy/JavaNegativeSubarray.java) — Find total negative int subarrays  
 - [JavaOutputFormatting.java](../../blob/Easy/JavaOutputFormatting.java) — Java output formatting
 - [JavaPrimalityCheck.java](../../blob/Easy/JavaPrimalityCheck.java) — Prime number check using isProbablePrime()
 - [JavaStaticInitializerBlock.java](../../blob/Easy/JavaStaticInitializerBlock.java) — Area of parallelogram  
