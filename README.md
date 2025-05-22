@@ -70,7 +70,8 @@ Below is a list of all Java programs I have completed and pushed to the [`Easy` 
 - [JavaSubstring.java](../../blob/Easy/JavaSubstring.java) — Substring extraction  
 - [JavaSubstringComparisons.java](../../blob/Easy/JavaSubstringComparisons.java) — Comparing all substrings of size k of a string  
 - [Java_Sdtin_Sdtout.java](../../blob/Easy/Java_Sdtin_Sdtout.java) — Standard Input/Output program  
-- [Java_Stdin_Stdout_2.java](../../blob/Easy/Java_Stdin_Stdout_2.java) — Standard Input/Output 2  
+- [Java_Stdin_Stdout_2.java](../../blob/Easy/Java_Stdin_Stdout_2.java) — Standard Input/Output 2
+- [PatternSyntaxChecker.java](../../blob/Easy/PatternSyntaxChecker.java) — Pattern Syntax Checker
 - [WelcomeToJava.java](../../blob/Easy/WelcomeToJava.java) — Basic welcome program  
 
 ---
