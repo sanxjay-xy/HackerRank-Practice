@@ -54,7 +54,8 @@ To **sharpen problem-solving skills**, strengthen core **data structures and alg
 
 Below is a list of all Java programs I have completed and pushed to the [`Easy` branch](../../tree/Easy):
 
-- [JavaAnagrams.java](../../blob/Easy/JavaAnagrams.java) — Anagram check  
+- [JavaAnagrams.java](../../blob/Easy/JavaAnagrams.java) — Anagram check
+- [JavaBigInteger.java](../../blob/Easy/JavaBigInteger.java) — BigInteger operations  
 - [JavaCurrencyFormatter.java](../../blob/Easy/JavaCurrencyFormatter.java) — Currency Conversion  
 - [JavaDatatypes.java](../../blob/Easy/JavaDatatypes.java) — Primitive datatypes to store value  
 - [JavaDateAndTime.java](../../blob/Easy/JavaDateAndTime.java) — Finding day of the week  
@@ -62,7 +63,8 @@ Below is a list of all Java programs I have completed and pushed to the [`Easy` 
 - [JavaIntToString.java](../../blob/Easy/JavaIntToString.java) — Converting int to String  
 - [JavaLoops1.java](../../blob/Easy/JavaLoops1.java) — First 10 multiples of N  
 - [JavaLoops2.java](../../blob/Easy/JavaLoops2.java) — Series creation  
-- [JavaOutputFormatting.java](../../blob/Easy/JavaOutputFormatting.java) — Java output formatting  
+- [JavaOutputFormatting.java](../../blob/Easy/JavaOutputFormatting.java) — Java output formatting
+- [JavaPrimalityCheck.java](../../blob/Easy/JavaPrimalityCheck.java) — Prime number check using isProbablePrime()
 - [JavaStaticInitializerBlock.java](../../blob/Easy/JavaStaticInitializerBlock.java) — Area of parallelogram  
 - [JavaStringReverse.java](../../blob/Easy/JavaStringReverse.java) — Palindrome check
 - [JavaStringTokens.java](../../blob/Easy/JavaStringTokens.java) — Extract and display words without special chars
@@ -72,6 +74,7 @@ Below is a list of all Java programs I have completed and pushed to the [`Easy` 
 - [Java_Sdtin_Sdtout.java](../../blob/Easy/Java_Sdtin_Sdtout.java) — Standard Input/Output program  
 - [Java_Stdin_Stdout_2.java](../../blob/Easy/Java_Stdin_Stdout_2.java) — Standard Input/Output 2
 - [PatternSyntaxChecker.java](../../blob/Easy/PatternSyntaxChecker.java) — Pattern Syntax Checker
+- [ValidUsernameChecker.java](../../blob/Easy/ValidUsernameChecker.java) — Valid Username Checker
 - [WelcomeToJava.java](../../blob/Easy/WelcomeToJava.java) — Basic welcome program  
 
 ---
