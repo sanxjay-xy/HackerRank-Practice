@@ -64,7 +64,8 @@ Below is a list of all Java programs I have completed and pushed to the [`Easy` 
 - [JavaLoops2.java](../../blob/Easy/JavaLoops2.java) — Series creation  
 - [JavaOutputFormatting.java](../../blob/Easy/JavaOutputFormatting.java) — Java output formatting  
 - [JavaStaticInitializerBlock.java](../../blob/Easy/JavaStaticInitializerBlock.java) — Area of parallelogram  
-- [JavaStringReverse.java](../../blob/Easy/JavaStringReverse.java) — Palindrome check  
+- [JavaStringReverse.java](../../blob/Easy/JavaStringReverse.java) — Palindrome check
+- [JavaStringTokens.java](../../blob/Easy/JavaStringTokens.java) — Extract and display words without special chars
 - [JavaStringsIntroduction.java](../../blob/Easy/JavaStringsIntroduction.java) — Performing basic string operations  
 - [JavaSubstring.java](../../blob/Easy/JavaSubstring.java) — Substring extraction  
 - [JavaSubstringComparisons.java](../../blob/Easy/JavaSubstringComparisons.java) — Comparing all substrings of size k of a string  
