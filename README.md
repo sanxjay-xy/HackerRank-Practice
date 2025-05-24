@@ -54,7 +54,9 @@ To **sharpen problem-solving skills**, strengthen core **data structures and alg
 
 Below is a list of all Java programs I have completed and pushed to the [`Easy` branch](../../tree/Easy):
 
-- [Arrays_DS.java](../../blob/Easy/Arrays_DS.java) — Array in-line reversal 
+- [2D_Array.java](../../blob/Easy/2D_Array.java) — Hour glass sum  
+- [Arrays_DS.java](../../blob/Easy/Arrays_DS.java) — Array in-line reversal
+- [DynamicArray.java](../../blob/Easy/DynamicArray.java) — Dynamic Array problem 
 - [Java1DArray.java](../../blob/Easy/Java1DArray.java) — Adding elements to 1D array  
 - [Java2DArray.java](../../blob/Easy/Java2DArray.java) — Maximum sum of hourglass  
 - [JavaAnagrams.java](../../blob/Easy/JavaAnagrams.java) — Anagram check  
@@ -78,10 +80,19 @@ Below is a list of all Java programs I have completed and pushed to the [`Easy` 
 - [JavaSubstring.java](../../blob/Easy/JavaSubstring.java) — Substring extraction  
 - [JavaSubstringComparisons.java](../../blob/Easy/JavaSubstringComparisons.java) — Comparing all substrings of size k of a string  
 - [Java_Sdtin_Sdtout.java](../../blob/Easy/Java_Sdtin_Sdtout.java) — Standard Input/Output program  
-- [Java_Stdin_Stdout_2.java](../../blob/Easy/Java_Stdin_Stdout_2.java) — Standard Input/Output 2
-- [PatternSyntaxChecker.java](../../blob/Easy/PatternSyntaxChecker.java) — Pattern Syntax Checker
-- [ValidUsernameChecker.java](../../blob/Easy/ValidUsernameChecker.java) — Valid Username Checker
+- [Java_Stdin_Stdout_2.java](../../blob/Easy/Java_Stdin_Stdout_2.java) — Standard Input/Output 2  
+- [LeftRotation.java](../../blob/Easy/LeftRotation.java) — Rotate array to the left n times  
+- [PatternSyntaxChecker.java](../../blob/Easy/PatternSyntaxChecker.java) — Pattern Syntax Checker  
+- [ValidUsernameChecker.java](../../blob/Easy/ValidUsernameChecker.java) — Valid Username Checker  
 - [WelcomeToJava.java](../../blob/Easy/WelcomeToJava.java) — Basic welcome program  
+
+---
+
+## 📝 Programs Completed (`Medium` branch)
+
+Below is a list of all Java programs I have completed and pushed to the [`Medium` branch](../../tree/Medium):
+
+- [SparseArrays.java](../../blob/Medium/SparseArrays.java) — Find count of string repetition  
 
 ---
 
