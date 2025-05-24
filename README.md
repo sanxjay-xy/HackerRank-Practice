@@ -54,6 +54,7 @@ To **sharpen problem-solving skills**, strengthen core **data structures and alg
 
 Below is a list of all Java programs I have completed and pushed to the [`Easy` branch](../../tree/Easy):
 
+- [Arrays_DS.java](../../blob/Easy/Arrays_DS.java) — Array in-line reversal 
 - [Java1DArray.java](../../blob/Easy/Java1DArray.java) — Adding elements to 1D array  
 - [Java2DArray.java](../../blob/Easy/Java2DArray.java) — Maximum sum of hourglass  
 - [JavaAnagrams.java](../../blob/Easy/JavaAnagrams.java) — Anagram check  
